@@ -1,0 +1,14 @@
+body {
+	background-color: #121212;
+	color: #fff;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover {
+	color: #fff;
+}
